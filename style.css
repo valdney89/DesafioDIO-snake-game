@@ -1,0 +1,22 @@
+body {
+  height: 95vh;
+  width: 95;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: sans-serif;
+}
+
+.pontuacao {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 900;
+  color: purple;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 40px;
+}
